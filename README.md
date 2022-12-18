@@ -1,4 +1,3 @@
-# IT-145-projects
 Java Object Oriented Programming
 
 Project1 - Create a Pseudocode and Flowchart along with a basic class for Pet to show formattingh understanding and structure of referenced class by crosschecking with associated UML diagram.

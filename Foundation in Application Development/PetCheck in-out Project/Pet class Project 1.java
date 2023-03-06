@@ -11,7 +11,7 @@ public class PetClass{
 	private int daysStay; //pet stay in number of days
 	private double amountDue; //amount due for boarding a dog/ cat + grooming
 	
-	//Constructor for attributes listed above, initializes values… edited my list of parameters for pet class
+	//Constructor for attributes listed above, initializes valuesâ€¦ edited my list of parameters for pet class
 	public PetClass(String petType, String petName, int petAge, int dogSpace, int catSpace, int daysStay, double amountDue) {
 		thi.petType = petType;
 		this.petName = petName;

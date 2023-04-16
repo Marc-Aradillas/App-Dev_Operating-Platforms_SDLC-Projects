@@ -16,7 +16,7 @@ ________________________________________________________________________________
 OPERATING PLATFORMS:
 
 CS-30406: Utilize software design templates and patterns to efficiently solve a problem
-CS-30407: Analyze the characteristics of and techniques specific to various systems architectures/li>
+CS-30407: Analyze the characteristics of and techniques specific to various systems architectures
 CS-30408: Evaluate the characteristics, advantages, and weaknesses of various platforms
 
 

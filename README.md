@@ -1,4 +1,6 @@
-Java Object Oriented Programming
+Foundations in Applications Development:
+
+* Java Object Oriented Programming *
 
 Project1 - Create a Pseudocode and Flowchart along with a basic class for Pet to show format understanding and structure of referenced class by crosschecking with associated UML diagram.
 

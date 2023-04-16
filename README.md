@@ -7,9 +7,9 @@ Project1 - Create a Pseudocode and Flowchart along with a basic class for Pet to
 Project2 -  to create a system menu to generate animals into a database that listed animal rescues. origination of country, details
 on animals, reservations for animals, and status of training.
 
-Added Java files using operators to calculate Surface area and paint amounf required to cover it
+Added Java files using operators to calculate Surface area and paint amount required to cover it.
 
-Added a course administration program I created to practice basic search 
+Added a course administration program I created to practice basic search.
 
 _____________________________________________________________________________________________________________________________
 
@@ -19,7 +19,17 @@ OPERATING PLATFORMS:
 * CS-30407: Analyze the characteristics of and techniques specific to various systems architectures
 * CS-30408: Evaluate the characteristics, advantages, and weaknesses of various platforms
 
+The Gaming Room is a client who wanted me to design a new multiplayer game called "Draw It or Lose It" that could be played on multiple platforms. The game involved players competing with each other by drawing objects and guessing what other players have drawn. The client requested a software design document that detailed the recommended operating platform, operating systems architecture, storage management, memory management, distributed systems and networks, and security measures for the game.
 
+In developing this documentation, I made sure to thoroughly analyze and research each aspect of the software design, ensuring that all recommendations were appropriate and feasible for the project. I also used clear and concise language, making the document easy to understand and follow.
+
+Working through the design document was helpful in developing the code as it allowed me to identify potential issues and dependencies early on, reducing the likelihood of encountering major problems during the coding process.
+
+If I could revise one part of my work on these documents, I would focus on providing more detailed examples of how the recommended technologies and techniques could be implemented within the Draw It or Lose It game.
+
+Interpreting the user's needs was crucial in designing the software as it allowed me to create a product that met their specific requirements and goals. Considering the user's needs is important as it ensures that the final product is user-friendly, efficient, and effective.
+
+To approach designing software, I use a combination of research, brainstorming, and prototyping techniques. In the future, I would continue to analyze and research each aspect of the software design, considering potential issues and dependencies early on in the process. Additionally, I would prioritize creating a user-friendly and efficient product by continuously testing and improving the software.
 
 _____________________________________________________________________________________________________________________________
 

@@ -19,6 +19,13 @@ OPERATING PLATFORMS:
 * CS-30407: Analyze the characteristics of and techniques specific to various systems architectures
 * CS-30408: Evaluate the characteristics, advantages, and weaknesses of various platforms
 
+- Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+- What did you do particularly well in developing this documentation?
+- What about the process of working through a design document did you find helpful when developing the code?
+- If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+- How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+- How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
 The Gaming Room is a client who wanted me to design a new multiplayer game called "Draw It or Lose It" that could be played on multiple platforms. The game involved players competing with each other by drawing objects and guessing what other players have drawn. The client requested a software design document that detailed the recommended operating platform, operating systems architecture, storage management, memory management, distributed systems and networks, and security measures for the game.
 
 In developing this documentation, I made sure to thoroughly analyze and research each aspect of the software design, ensuring that all recommendations were appropriate and feasible for the project. I also used clear and concise language, making the document easy to understand and follow.

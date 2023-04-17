@@ -36,3 +36,12 @@ ________________________________________________________________________________
 
 SOFTWARE DEVELOPMENT LIFECYCLE:
 
+- How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+- How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+- What does it mean to be a good team member in software development?
+
+Interpreting user needs and implementing them into a program is an essential part of software development. One approach to understanding user needs is to create user stories. User stories are short, simple descriptions of a feature or requirement from the perspective of an end-user. They are often written in a specific format, such as "As a [user], I want [goal], so that [reason]." User stories help to clarify what the user wants, why they want it, and how it fits into the larger context of the software system.
+
+When creating a program, it's important to approach the development process systematically. One common methodology is agile development, which emphasizes collaboration, flexibility, and iterative development. Some agile processes that developers may incorporate into their work include Scrum, Kanban, and Extreme Programming (XP). Scrum involves short, focused development sprints with regular check-ins and feedback, while Kanban emphasizes continuous flow and visual management. XP emphasizes teamwork, communication, and frequent testing and feedback.
+
+Being a good team member in software development involves several key qualities. First and foremost, communication is critical. Good team members communicate clearly and effectively with their colleagues, stakeholders, and end-users. They listen actively and seek feedback to ensure they understand what is needed. Collaboration and teamwork are also essential, as software development is typically a team effort. Good team members are supportive and work collaboratively to achieve shared goals. Additionally, good team members are flexible and adaptable, able to respond to changing requirements or unexpected challenges. Finally, good team members are committed to producing high-quality work, taking pride in their work and striving for excellence.
